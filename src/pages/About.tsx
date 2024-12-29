@@ -1,3 +1,4 @@
+import React from "react";
 import Navigation from "@/components/Navigation";
 
 const About = () => {
@@ -25,13 +26,20 @@ const About = () => {
               </div>
               
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <h3 className="text-xl font-bold mb-4">For TSA</h3>
+                <h3 className="text-xl font-bold mb-4">Our Vision</h3>
                 <p className="text-gray-600">
-                  Our Files And Forums Will be Linked Here As Well As Our Information.
+                  To create a global community where culinary knowledge is shared, 
+                  celebrated, and preserved for future generations.
                 </p>
               </div>
-          
-              </div>
+            </div>
+
+            <div className="bg-white p-6 rounded-lg shadow-md">
+              <h3 className="text-xl font-bold mb-4">For TSA</h3>
+              <p className="text-gray-600">
+                Our Files Are Linked Here.
+                Credits To Our Team.
+              </p>
             </div>
           </div>
         </div>
