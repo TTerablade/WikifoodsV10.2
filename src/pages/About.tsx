@@ -38,8 +38,7 @@ const About = () => {
               <h3 className="text-xl font-bold mb-4">For TSA</h3>
               <p className="text-gray-600">
                 Our Files Are Linked Here.
-                Credits To Our Team:
-                Poeple
+                Credits To Our Team:Popel
               </p>
             </div>
           </div>
